@@ -423,3 +423,4 @@ Through data cleaning, dataset integration, descriptive analysis, stockout monit
 By combining structured SQL analysis with continuous monitoring and validated inventory policies, TechElectro Inc. can work toward reducing inventory imbalances, improving product availability, and supporting more cost-efficient operations.
 
 ### SQL LINK 
+https://github.com/EbhoriaM/SQL_Sales_Inventory/blob/main/Tech%20electro.sql
