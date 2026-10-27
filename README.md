@@ -421,3 +421,5 @@ The TechElectro Inc. Inventory Optimization project demonstrates how MySQL can b
 Through data cleaning, dataset integration, descriptive analysis, stockout monitoring, and reorder point calculations, the project establishes a framework for improving inventory planning and replenishment decisions.
 
 By combining structured SQL analysis with continuous monitoring and validated inventory policies, TechElectro Inc. can work toward reducing inventory imbalances, improving product availability, and supporting more cost-efficient operations.
+
+### SQL LINK 
